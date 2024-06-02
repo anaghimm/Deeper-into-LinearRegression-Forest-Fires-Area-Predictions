@@ -1,1 +1,0 @@
-# Deeper-into-LinearRegression-Forest-Fires-Area-Predictions
